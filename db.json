@@ -1,0 +1,24 @@
+{
+  "viveshop": {
+    "errors": {
+      "store_subdomain": "no es único",
+      "business_activity": "no es válido"
+    },
+    "full_message": "El subdominio no es único, el sector económico no es válido."
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
